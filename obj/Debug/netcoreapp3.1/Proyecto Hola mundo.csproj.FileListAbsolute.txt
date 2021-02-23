@@ -1,0 +1,13 @@
+C:\laragon\www\Proyecto Hola mundo\bin\Debug\netcoreapp3.1\Proyecto Hola mundo.exe
+C:\laragon\www\Proyecto Hola mundo\bin\Debug\netcoreapp3.1\Proyecto Hola mundo.deps.json
+C:\laragon\www\Proyecto Hola mundo\bin\Debug\netcoreapp3.1\Proyecto Hola mundo.runtimeconfig.json
+C:\laragon\www\Proyecto Hola mundo\bin\Debug\netcoreapp3.1\Proyecto Hola mundo.runtimeconfig.dev.json
+C:\laragon\www\Proyecto Hola mundo\bin\Debug\netcoreapp3.1\Proyecto Hola mundo.dll
+C:\laragon\www\Proyecto Hola mundo\bin\Debug\netcoreapp3.1\Proyecto Hola mundo.pdb
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.csprojAssemblyReference.cache
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.AssemblyInfoInputs.cache
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.AssemblyInfo.cs
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.csproj.CoreCompileInputs.cache
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.dll
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.pdb
+C:\laragon\www\Proyecto Hola mundo\obj\Debug\netcoreapp3.1\Proyecto Hola mundo.genruntimeconfig.cache
